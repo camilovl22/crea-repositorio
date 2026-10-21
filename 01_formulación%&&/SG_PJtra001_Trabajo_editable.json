@@ -1,0 +1,299 @@
+{
+  "type": "HDGMP-libro-v3",
+  "version": 3,
+  "fields": {
+    "equipo": "PJtra001",
+    "proyecto": "Programa Integral para la Empleabilidad y la Inclusión Productiva",
+    "integrantes": "Andrés Fabian Ruiz \nCamilo Ernesto Valero \nKelly Jazbleidy Uribe \nYennifer Ariza \nLorena Salamanca ",
+    "problema": "El desempleo afecta de manera más severa a la población joven, que enfrenta una desventaja estructural frente al mercado laboral por factores como la falta de experiencia, el nivel educativo alcanzado y las responsabilidades adicionales que asume. En el municipio de San Gabriel, esta situación involucra a jóvenes de 18 a 28 años, cuyas barreras varían según su perfil: quienes buscan su primer empleo se enfrentan a la ausencia de experiencia previa y al desconocimiento de los procesos de búsqueda y selección; quienes estudian y desean trabajar deben conciliar los horarios académicos con la jornada laboral; y quienes tienen responsabilidades de cuidado ven restringida su disponibilidad de tiempo para cumplir jornadas tradicionales.\nEl desempleo juvenil es una situación en la que intervienen múltiples elementos y actores, por lo que debe abordarse no solo desde la precariedad que comúnmente se atribuye a los jóvenes, sino también desde el entorno hostil al que se enfrentan y la oferta pública existente (Guerra, 2012). Esta heterogeneidad se refleja en los datos obtenidos a partir del diagnóstico para ruta municipal de empleabilidad juvenil, entre los jóvenes que cuentan actualmente con empleo, el 60,1 % tiene un empleo formal o un emprendimiento, mientras que el 39,9 % trabaja por cuenta propia o en condiciones de informalidad. Entre quienes no tienen empleo, el 36 % busca su primer empleo, el 31 % desea comenzar a trabajar mientras estudia y el 19 % realiza labores de cuidado o no participa en la búsqueda laboral.\nLas consecuencias, además, trascienden lo económico. Según Ballesteros, Monroy y Pita (2023)los jóvenes sin oportunidades laborales enfrentan también afectaciones en su autoestima, identidad y proyección de vida, lo que a largo plazo puede traducirse en desencanto, migración y, en algunos casos, mayor vulnerabilidad frente a actividades ilícitas. En síntesis, el problema no se limita a la existencia de jóvenes desempleados, sino a la falta de información detallada sobre las barreras específicas de cada perfil. Esto impide ajustar las rutas de empleabilidad a las condiciones reales de la población y reduce su efectividad para lograr una vinculación laboral exitosa.",
+    "alternativa": "La alternativa seleccionada es el Programa Integral para la Empleabilidad y la Inclusión Productiva, dirigido a jóvenes de 18 a 28 años del municipio de San Gabriel. Responde directamente al problema identificado: la falta de rutas de empleabilidad ajustadas a las barreras específicas de cada perfil. En lugar de ofrecer un único servicio a toda la población, el programa caracteriza a cada joven y lo vincula a una ruta diferenciada que combina formación en competencias laborales y socioemocionales, orientación ocupacional e intermediación con oportunidades de empleo y formación. Su meta es que al menos el 60 % de los participantes mejore sus condiciones de acceso al mercado laboral formal durante 12 meses de ejecución.\nRutas diferenciadas según el perfil\n•\tJóvenes que buscan su primer empleo (36 % de quienes no tienen empleo): fortalecimiento de competencias laborales, construcción de la hoja de vida, preparación para entrevistas y conocimiento de los procesos de búsqueda y selección.\n•\tJóvenes que estudian y desean comenzar a trabajar (31 %): conexión con oportunidades de empleo y formación compatibles con la jornada académica, y apoyo en la transición entre educación y trabajo.\n•\tJóvenes con labores de cuidado o que no participan en la búsqueda laboral (19 %): acompañamiento con enfoque diferencial y de género, orientación hacia oportunidades con condiciones y horarios acordes con su disponibilidad, y motivación para iniciar la búsqueda.\n•\tJóvenes con empleo informal o por cuenta propia (39,9 % de quienes tienen empleo): orientación hacia la formalización y el acceso a empleos de mayor calidad, con fortalecimiento de competencias y vinculación a oportunidades formales.\n",
+    "descripcion": "Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Productiva atenderá a 200 jóvenes de 18 a 28 años de San Gabriel. Entre los meses 1 y 3 se elaborarán los planes operativo y de seguimiento, se convocará a los jóvenes y se aplicará un diagnóstico que asignará a cada participante una ruta según su perfil. Entre los meses 3 y 8 se desarrollarán módulos de competencias laborales y talleres de habilidades socioemocionales, con certificación. Entre los meses 5 y 10 se brindará orientación ocupacional individual y grupal, y se articularán alianzas con empresas e instituciones de formación para realizar ruedas de empleo y remitir a los jóvenes a vacantes laborales, educativas o de emprendimiento. Entre los meses 8 y 12 se hará seguimiento a la inserción laboral y educativa mediante una base de datos, y se entregarán los informes de resultados y el informe final.",
+    "seguimiento": "Actividades y tareas\nResponsables\nFechas y plazos\nEntregables y evidencias\nAvances y dificultades\nDecisiones y ajustes",
+    "dificultades": "•\tRetrasos en las actividades: cuando una tarea no se completa en la fecha acordada o afecta el cumplimiento de otras actividades.\n•\tFalta de información o documentos: cuando se requiere actualizar, validar o completar la información de diagnóstico, las encuestas, las bases de datos o los análisis territoriales.\n•\tDificultades con los datos: cuando no está clara la procedencia de la información o se necesita diferenciar los datos sintéticos utilizados para los ejercicios de análisis de los datos reales de la población.\n•\tFalta de claridad en las responsabilidades: cuando dos personas realizan la misma tarea o una actividad queda sin responsable.\n•\tCambios en el alcance o la metodología: cuando se necesita ajustar los perfiles de beneficiarios, las rutas de atención o las actividades previstas.\n•\tProblemas de coordinación y documentación: cuando los archivos están dispersos, existen versiones diferentes de un mismo documento o no se registran los acuerdos del equipo\n•\tDecisiones pendientes: cuando el avance de una actividad depende de una aprobación, una validación técnica o un acuerdo colectivo.",
+    "pendientes": "•\tEstructura del repositorio: establecer cómo se organizarán los documentos de formulación, el diagnóstico, los instrumentos de recolección de información, los análisis, la planeación y las evidencias de avance.\n•\tResponsabilidades del equipo: identificar quién coordina el proyecto, quién actualiza la documentación, quién gestiona los instrumentos de recolección de información, quién desarrolla los análisis y quién valida los productos.\n•\tOrganización de las tareas: definir cómo se registrarán las actividades pendientes, sus responsables, las fechas de entrega, los estados de avance y las prioridades mediante Issues o un tablero de proyectos.\n•\tCriterios para registrar avances: establecer qué información debe incluir cada actualización, cómo se evidenciará la finalización de una actividad y cómo se documentarán los cambios.\n•\tGestión de alertas y decisiones: acordar cómo se reportarán los retrasos, las dificultades, los bloqueos y las decisiones que requieran la participación del equipo.\n•\tDocumentación de acuerdos: definir dónde se registrarán las conclusiones de las reuniones, los compromisos adquiridos y los cambios realizados en la planeación.\n•\tIntegración con otras herramientas: precisar cómo se vincularán los documentos y recursos disponibles en OneDrive, los formularios de Microsoft Forms, las bases de datos y las herramientas de análisis, evitando duplicar archivos innecesariamente.\n•\tAcceso y protección de la información: determinar qué documentos pueden publicarse en el repositorio y cuáles deben mantenerse en espacios privados, especialmente si contienen información personal o datos de participantes.\n"
+  },
+  "tables": {
+    "activities": [
+      {
+        "id": "amvfec6ah2br0lw",
+        "component": "Gestión y planeación",
+        "activity": "Elaborar el plan operativo y el plan de seguimiento con sus indicadores y línea base",
+        "result": "Plan operativo y plan de seguimiento aprobados"
+      },
+      {
+        "id": "amvfej1bu2wu1pr",
+        "component": "Gestión y planeación",
+        "activity": "Diseñar los instrumentos de caracterización de los jóvenes",
+        "result": "Instrumentos de caracterización validados"
+      },
+      {
+        "id": "amvfejatu4r48n1",
+        "component": "Convocatoria y vinculación",
+        "activity": "Implementar la estrategia de difusión en las zonas del municipio",
+        "result": "Informe de convocatoria y piezas de difusión"
+      },
+      {
+        "id": "amvfejl82fuobla",
+        "component": "Convocatoria y vinculación",
+        "activity": "Registrar a los 200 participantes",
+        "result": "Base de datos de participantes inscritos"
+      },
+      {
+        "id": "amvfejuqybyfl8k",
+        "component": "Convocatoria y vinculación",
+        "activity": "Aplicar el diagnóstico inicial y asignar a cada joven su ruta según el perfil",
+        "result": "Diagnósticos aplicados y perfiles asignados"
+      },
+      {
+        "id": "amvfek4m9b92jek",
+        "component": "Formación y desarrollo de competencias",
+        "activity": "Desarrollar los módulos de formación en competencias laborales",
+        "result": "Módulos dictados y listas de asistencia"
+      },
+      {
+        "id": "amvfekuf5dnlvhx",
+        "component": "Formación y desarrollo de competencias",
+        "activity": "Realizar los talleres de habilidades socioemocionales y certificar a quienes completen la formación",
+        "result": "Talleres ejecutados, registro de participación y certificados entregados"
+      },
+      {
+        "id": "amvfel48y2dhjm9",
+        "component": "Orientación e intermediación laboral",
+        "activity": "Construir rutas individuales de empleabilidad con acompañamiento individual y grupal",
+        "result": "Rutas de empleabilidad documentadas por participante"
+      },
+      {
+        "id": "amvfeldc29dd66v",
+        "component": "Orientación e intermediación laboral",
+        "activity": "Establecer alianzas con empresas e instituciones de formación",
+        "result": "Convenios o cartas de intención firmados"
+      },
+      {
+        "id": "amvfelolt8sj7kl",
+        "component": "Orientación e intermediación laboral",
+        "activity": "Organizar ferias o ruedas de empleo",
+        "result": "Informe de las ferias con empresas y jóvenes asistentes"
+      },
+      {
+        "id": "amvfelzc1f7tpl0",
+        "component": "Orientación e intermediación laboral",
+        "activity": "Remitir a los jóvenes a vacantes laborales, educativas o de emprendimiento",
+        "result": "Registro de remisiones y vinculaciones logradas"
+      },
+      {
+        "id": "amvfemco17toiku",
+        "component": "Seguimiento y cierre",
+        "activity": "Monitorear la inserción laboral y educativa de los participantes",
+        "result": "Base de datos de seguimiento actualizada"
+      },
+      {
+        "id": "amvfeml691s66vb",
+        "component": "Seguimiento y cierre",
+        "activity": "Elaborar los informes de resultados y el informe final de impacto",
+        "result": "Informes de resultados e informe final de impacto"
+      }
+    ],
+    "responsibilities": [
+      {
+        "id": "amvfec6ai2qf2g5",
+        "person": "Andrés Ruiz",
+        "function": "Coordinación general y seguimiento",
+        "related": "Convocar reuniones, revisar el tablero planteado en GitHub, verificar responsables y fechas, identificar bloqueos y coordinar las decisiones del equipo."
+      },
+      {
+        "id": "amvffo5jea7v2b5",
+        "person": "Kelly Uribe",
+        "function": "Administración documental",
+        "related": "Mantener actualizado el documento base, organizar los archivos compartidos, controlar versiones y verificar la disponibilidad de los entregables."
+      },
+      {
+        "id": "amvffoe3mdofgu9",
+        "person": "Yennifer Ariza",
+        "function": "Instrumento y convocatoria",
+        "related": "Administrar el formulario de Microsoft Forms, documentar ajustes y ramificaciones y organizar los registros asociados a la convocatoria"
+      },
+      {
+        "id": "amvffpaeyerhv8w",
+        "person": "Camilo Valero",
+        "function": "Formulación técnica y articulación",
+        "related": "Apoyar la estructuración de las rutas por perfil, organizar los insumos técnicos y documentar los acuerdos relacionados con formación, orientación e intermediación laboral."
+      },
+      {
+        "id": "amvffpq6251e9kl",
+        "person": "Lorena Salamanca",
+        "function": "Problema, diagnóstico y análisis",
+        "related": "Consolidar la formulación del problema, apoyar el análisis de los resultados por perfil y dominio territorial y documentar las decisiones metodológicas."
+      },
+      {
+        "id": "amvffq4tm73slu1",
+        "person": "Todos los integrantes",
+        "function": "Ejecución y validación",
+        "related": "Actualizar las tareas asignadas, aportar y revisar productos, informar retrasos y validar las versiones finales."
+      }
+    ],
+    "monitoring": [
+      {
+        "id": "amvfec6aie2to9l",
+        "aspect": "Pendientes",
+        "info": "Descripción de la tarea, prioridad y responsable",
+        "update": "GitHub"
+      },
+      {
+        "id": "amvfg4lf5eiaaq8",
+        "aspect": "Fechas",
+        "info": "Fecha de inicio y fechas límites ",
+        "update": "Tablero de GitHub y calendario compartido"
+      },
+      {
+        "id": "amvfg4wv5bl65jx",
+        "aspect": "Estado de las actividades",
+        "info": "Actividades por iniciar, en curso, en revisión, bloqueada o finalizada",
+        "update": "Actualización constante del tablero en GitHub"
+      },
+      {
+        "id": "amvfg5gl47g1lwf",
+        "aspect": "Bloqueos",
+        "info": "Descripción del problema, actividad afectada y apoyo que se requiere",
+        "update": "Registro de incidencias en GitHub"
+      },
+      {
+        "id": "amvfg5vjk6axvxp",
+        "aspect": "Entregables",
+        "info": "Nombre, versión, fecha de entrega y ubicación del archivo",
+        "update": "Enlaces a los documentos y carpetas compartidos."
+      },
+      {
+        "id": "amvfg689423evhu",
+        "aspect": "Decisiones",
+        "info": "Acuerdo adoptado, fecha, responsables y tareas afectadas",
+        "update": "Actas breves y registro de decisiones."
+      },
+      {
+        "id": "amvfg6ubk5v7kel",
+        "aspect": "Revisión de avances",
+        "info": "Tareas vencidas, entregables próximos y compromisos pendientes.",
+        "update": "Reunión y monitoreo semanal del equipo"
+      }
+    ],
+    "inputs": [
+      {
+        "id": "amvfec6aibomcdf",
+        "item": "Documento consolidado del proyecto",
+        "utility": "Reúne el contexto, la población objetivo, los perfiles de empleabilidad, los resultados exploratorios y las conclusiones.",
+        "url": "https://ucatolicaeduco-my.sharepoint.com/:f:/r/personal/afruiz83_ucatolica_edu_co/Documents/01_PJtra001_260917?d=w5ffdab6ba9ce4b8ca86313196d0ceff2&csf=1&web=1&e=gQhTdP"
+      },
+      {
+        "id": "amvfh2h0cfuha69",
+        "item": "Formulario de Microsoft Forms",
+        "utility": "Permite recopilar información sobre las características y barreras laborales de los jóvenes, mediante preguntas organizadas por perfil.",
+        "url": "https://forms.cloud.microsoft/r/aGZERrYjgv?origin=lprLink&utm_source=chatgpt.com "
+      },
+      {
+        "id": "amvfh2ubh3kvjtt",
+        "item": "Base de datos sintética de 479 registros",
+        "utility": "Permite ensayar la estructura de los datos, revisar las ramificaciones del formulario y explorar diferencias por perfil y dominio territorial",
+        "url": "https://ucatolicaeduco-my.sharepoint.com/:f:/r/personal/afruiz83_ucatolica_edu_co/Documents/01_PJtra001_260917?d=w5ffdab6ba9ce4b8ca86313196d0ceff2&csf=1&web=1&e=gQhTdP"
+      },
+      {
+        "id": "amvfh378k3myxcy",
+        "item": "Project Model Canvas",
+        "utility": "Sintetiza los elementos centrales de la intervención, entre ellos la justificación, el objetivo y los beneficios esperados.",
+        "url": "https://ucatolicaeduco-my.sharepoint.com/:f:/r/personal/afruiz83_ucatolica_edu_co/Documents/01_PJtra001_260917?d=w5ffdab6ba9ce4b8ca86313196d0ceff2&csf=1&web=1&e=gQhTdP"
+      },
+      {
+        "id": "amvfh3ftp3zzrw1",
+        "item": "Agente de Copilot",
+        "utility": "Apoya la formulación estructurada del proyecto mediante preguntas y elaboración guiada de sus componentes.",
+        "url": "https://teams.cloud.microsoft/l/app/?source=embedded-builder&titleId=T_4cf80eb7-b1ad-6627-484b-fce7d6bf7338"
+      },
+      {
+        "id": "amvfh3ub0c6hbuy",
+        "item": "Ficha de preparación para GitHub",
+        "utility": "Contiene la identificación del proyecto, la problemática, la alternativa seleccionada y las actividades previstas",
+        "url": "https://ucatolicaeduco-my.sharepoint.com/:f:/r/personal/afruiz83_ucatolica_edu_co/Documents/01_PJtra001_260917?d=w5ffdab6ba9ce4b8ca86313196d0ceff2&csf=1&web=1&e=gQhTdP"
+      },
+      {
+        "id": "amvfnirop778rlo",
+        "item": "Salón comunal e insumos físicos para brindar el acompañamiento",
+        "utility": "Permite desarrollar las actividades y ferias que se requieran hacer en el marco del desarrollo del proyecto.",
+        "url": "San Gabriel"
+      }
+    ],
+    "tools": [
+      {
+        "id": "amvfec6aiabvp3w",
+        "tool": "OneDrive",
+        "role": "Almacenamiento y organización de documentos, bases de datos, presentaciones y actas.",
+        "output": "Mantener una carpeta compartida con acceso para los integrantes y el docente, según los permisos acordados."
+      },
+      {
+        "id": "amvfngb967j6gas",
+        "tool": "Word",
+        "role": "Elaboración colaborativa de fichas, informes y documentos de formulación que se requiera",
+        "output": "Facilitar la edición simultánea y el control de versiones de los documentos de trabajo."
+      },
+      {
+        "id": "amvfngk3eoy44p",
+        "tool": "Microsoft Forms",
+        "role": "Diseño y aplicación del instrumento de encuesta.",
+        "output": "Administrar las preguntas, el consentimiento informado y las ramificaciones correspondientes a cada perfil."
+      },
+      {
+        "id": "amvfngtte9conek",
+        "tool": "Python y hojas de cálculo",
+        "role": "Organización, depuración y análisis descriptivo de datos; elaboración de tablas y gráficos.",
+        "output": "Conservar los archivos de entrada, los criterios de procesamiento y los resultados obtenidos, distinguiendo los datos sintéticos de los reales"
+      },
+      {
+        "id": "amvfnh7wx403fc5",
+        "tool": "Copilot e IA",
+        "role": "Apoyo para estructurar ideas, elaborar borradores, resumir documentos y revisar la consistencia del contenido.",
+        "output": "Verificar las cifras y afirmaciones generadas antes de incorporarlas a los documentos definitivos"
+      },
+      {
+        "id": "amvfnhoy99fkox5",
+        "tool": "Correo electrónico o Microsoft Teams",
+        "role": "Comunicación entre los integrantes, coordinación de reuniones y circulación de información",
+        "output": "Utilizar un canal acordado para la comunicación y trasladar a GitHub los compromisos y decisiones relevantes"
+      },
+      {
+        "id": "amvfni0y12eoo58",
+        "tool": "Calendario compartido",
+        "role": "Programación de reuniones, entregas y revisiones",
+        "output": "Mantener las fechas alineadas con los plazos registrados en GitHub"
+      },
+      {
+        "id": "amvfni9wxd8m6mk",
+        "tool": "GitHub",
+        "role": "Seguimiento central de tareas, responsables, fechas, bloqueos, entregables y decisiones",
+        "output": "Todo el equipo actualizará el tablero y documentará el avance de sus actividades."
+      }
+    ]
+  },
+  "ready": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "complete": false,
+  "simRows": [],
+  "sourceSignature": "",
+  "simNotes": {},
+  "communication": {},
+  "verification": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "exportado": "2026-10-19T19:48:05.174Z"
+}
